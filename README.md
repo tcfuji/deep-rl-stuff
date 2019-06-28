@@ -1,8 +1,8 @@
-# My Deep Reinforcement Learning (DRL) Stuff
+# My Deep Learning Code
 
-This repository contains some self-study work related to deep reinforcement learning.
+This repository contains some self-study work related to deep learning.
 
-- Recreating DRL algorithms
+- Recreating DL algorithms
 - Improving my software development skills through recreating AlphaGo
 - My notes
 - Practicing PyTorch and Keras.
